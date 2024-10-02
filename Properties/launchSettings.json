@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "Turn_Battle_System": {
+      "commandName": "Project"
+    },
+    "Container (Dockerfile)": {
+      "commandName": "Docker"
+    }
+  }
+}
